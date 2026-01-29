@@ -1,2 +1,14 @@
-# leetcode-solutions
-My solutions to LeetCode problems, organized by topic, with explanations and time/space complexity. Used to track progress and improve problem-solving skills.
+# LeetCode Solutions 
+
+This repository contains my solutions to LeetCode problems.
+The goal is to track my progress and improve problem-solving skills.
+
+## Structure
+- Solutions are organized by topic
+- Each solution includes an explanation and time/space complexity
+
+## Language
+- Python
+
+## Progress
+See `progress.md` for progress tracking.
